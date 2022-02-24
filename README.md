@@ -1,13 +1,17 @@
  <h2>ooi, sou a Anna Luiza</h2>
 <ul>
-  <li> programadora aprendiz</li>
-  <li> cursando técnico em informática</li>
+  <li> programadora aprendiz ☘️</li>
+  <li> cursando técnico em informática 💻</li>
 </ul>
 <div align="center">
   <a href="https://github.com/1234anna">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=1234anna&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=000000&text_color=&bg_color=fff8e7&icon_color="/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1234anna&layout=compact&langs_count=7&theme=dark&title_color=000000&bg_color=fff8e7"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=1234anna&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=000000&text_color=2e2e2e&bg_color=fff8e7&icon_color=6a994e"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1234anna&layout=compact&langs_count=7&theme=dark&title_color=000000&bg_color=fff8e7&text_color=2e2e2e"/>
 </div>
+ 
+ <div>
+  <img align="right" height="150" style="border-radius:50px; "src= "https://i.picasion.com/pic92/2bd93f8f68fe3e523ad271457339fdb2.gif""
+ </div>
   
   
   <div> 
@@ -20,6 +24,7 @@
   
   
   <!--
+fff8e7
 fffbe7
 a24502
 
