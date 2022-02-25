@@ -9,15 +9,23 @@
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1234anna&layout=compact&langs_count=7&theme=dark&title_color=000000&bg_color=fff8e7&text_color=2e2e2e"/>
 </div>
  
+
+ 
  <div>
   <img align="right" height="150" style="border-radius:50px; "src= "https://i.picasion.com/pic92/2bd93f8f68fe3e523ad271457339fdb2.gif""
  </div>
   
   
-  <div> 
+  <hr>
+                                                                                                                                       <div> 
   <a href="https://instagram.com/__anna_luiza" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "luizaanna.gs@gmail.com"><img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white></a>
   </div>
+                                    
+   <div> <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ </div>
+                                
   
 
 
