@@ -1,4 +1,4 @@
- <h2>ooi, sou a Anna Luiza</h2>
+ ### ooi, sou a Anna Luiza
 <ul>
   <li> programadora aprendiz ☘️</li>
   <li> cursando técnico em informática 💻</li>
@@ -17,11 +17,15 @@
   
   
   <hr>
+   <h3>Redes sociais:</h3>
                                                                                                                                        <div> 
   <a href="https://instagram.com/__anna_luiza" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "luizaanna.gs@gmail.com"><img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white></a>
   </div>
-                                    
+
+  
+  <h3>Aprendendo:</h3>
+                                 
    <div> <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  </div>
