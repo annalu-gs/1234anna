@@ -31,7 +31,6 @@
  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
-![Snake animation](https://github.com/1234anna/1234anna/blob/output/github-contribution-grid-snake.svg)
                                 
   
 
@@ -39,6 +38,9 @@
   
   
   <!--
+
+![Snake animation](https://github.com/1234anna/1234anna/blob/output/github-contribution-grid-snake.svg)
+                                
 fff8e7
 fffbe7
 a24502
