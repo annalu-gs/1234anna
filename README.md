@@ -5,8 +5,8 @@
 </ul>
 <div align="center">
   <a href="https://github.com/1234anna">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=1234anna&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=000000&text_color=2e2e2e&bg_color=fff8e7&icon_color=6a994e"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1234anna&layout=compact&langs_count=7&theme=dark&title_color=000000&bg_color=fff8e7&text_color=2e2e2e"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=1234anna&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1234anna&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
 
@@ -30,16 +30,17 @@
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
-![Snake animation](https://github.com/1234anna/1234anna/blob/output/github-contribution-grid-snake.svg)
-                                
+
   
 
 
   
   
   <!--
+                                                                                                                                                 &title_color=000000&text_color=2e2e2e&bg_color=fff8e7&icon_color=6a994e
+                                                                                                                                                 &theme=dark&title_color=000000&bg_color=fff8e7&text_color=2e2e2e
 
-![Snake animation](https://github.com/1234anna/1234anna/blob/output/github-contribution-grid-snake.svg)
+                                                                                                                                                 ![Snake animation](https://github.com/1234anna/1234anna/blob/output/github-contribution-grid-snake.svg)
                                 
 fff8e7
 fffbe7
