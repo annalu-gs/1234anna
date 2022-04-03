@@ -4,11 +4,14 @@
  <li> programadora aprendiz ☘️</li>
   <li> cursando técnico em informática 💻</li>
 </ul>
+
 <div align="center">
   <a href="https://github.com/1234anna">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=1234anna&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1234anna&layout=compact&langs_count=7&theme=graywhite"/>
-</div>
+  <img aligh="left" height="150" style="border-radius:50px; "src= "https://pin.it/2I9qzhB"">
+   
+   </div>
  
 
  
