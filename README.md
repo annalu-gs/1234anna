@@ -11,6 +11,7 @@
   <a href="https://github.com/1234anna">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=1234anna&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1234anna&layout=compact&langs_count=7&theme=graywhite"/>
+  <img src= "https://github.com/1234anna/1234anna/issues/1#issuecomment-1086954175" width="200px">
    </div>
  
 
