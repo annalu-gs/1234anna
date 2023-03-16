@@ -2,7 +2,7 @@
 <ul>
  <li> programadora aprendiz 💀</li>
  <li> foco em front-end</li>
- <li> formada técnico em informática na Escola Profissionalizante Santo Agostinho 💻</li>
+ <li> formada no curso técnico em informática na Escola Profissionalizante Santo Agostinho 💻</li>
  <li> cursando segundo semestre de Análise e desenvolvimento de sistemas na Pitágoras ⚡</li>
 </ul>
 <hr>
