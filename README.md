@@ -1,7 +1,7 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=BB02F7&multiline=true&width=448&height=54&lines=ooi%2C+meu+nome+%C3%A9+Anna+Luiza+%3A)" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=FDFDFDFD&width=435&lines=ooi%2C+meu+nome+%C3%A9+Anna+Luiza+%3A);seja+bem-vindo(a)!" alt="Typing SVG" /></a>
 </div>
- 
+ <br>
 <ul>
  <li> programadora aprendiz 💀</li>
  <li> formada no curso técnico em informática na Escola Profissionalizante Santo Agostinho 💻</li>
@@ -26,14 +26,14 @@
   <hr>
    
   <br>
-                                 
+  <p><strong>Estudando:</strong></p>                          
   <div> <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">                                                                                                                            
    <img align="center" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">                                                                                                                                            
   </div> <br>
-                                                                                                                                       <div> 
+    <p><strong>Contatos:</strong></p>                                                                                                                                    <div> 
   <a href="https://instagram.com/__anna_luiza" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "https://criarmeulink.com.br/u/1680138335"><img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white></a>
   </div>
