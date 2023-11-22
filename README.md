@@ -5,7 +5,7 @@
 <ul>
  <li> programadora aprendiz 💀</li>
  <li> formada no curso técnico em informática na Escola Profissionalizante Santo Agostinho 💻</li>
- <li> cursando segundo semestre de Análise e desenvolvimento de sistemas na Pitágoras ⚡</li>
+ <li> graduanda em Análise e desenvolvimento de sistemas na Pitágoras ⚡</li>
 </ul>
 <hr>
 
